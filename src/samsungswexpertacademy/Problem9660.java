@@ -1,4 +1,3 @@
-/*
 package samsungswexpertacademy;
 
 import java.util.Scanner;
@@ -13,4 +12,3 @@ public class Problem9660 {
         }
     }
 }
-*/
